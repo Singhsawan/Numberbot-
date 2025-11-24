@@ -27,8 +27,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-API_TEMPLATE = "https://freeapi.frappeash.workers.dev/?num={num}"
-FREE_CREDIT = 1
+API_TEMPLATE = "https://numinfo.gauravcyber0.workers.dev/?mobile=9999565653"
+FREE_CREDIT = 100
 
 # --- Helpers ---
 def get_user(user_id: int):
