@@ -27,7 +27,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-API_TEMPLATE = "https://numinfo.gauravcyber0.workers.dev/?mobile=9999565653"
+API_TEMPLATE = "https://numinfo.gauravcyber0.workers.dev/?mobile={Number}"
 FREE_CREDIT = 100
 
 # --- Helpers ---
